@@ -1,0 +1,27 @@
+export default {
+    authenticated: false,
+    userEmail: '',
+    newUrl: '',
+    paccekanje: [],
+    pacobrada: [],
+    pacobradeni: [],
+    searchTerm: '',
+    postComment: '',
+    imageData: null,
+    saran: false,
+    stuka: false,
+    oib: '',
+    kgsaran:'',
+    kgstuka:'',
+    kg: '',
+    ime: '',
+    prezime: '',
+    imep: '',
+    prezimep: '',
+    imeiprezime: 'we',
+    oibp: '',
+    zaposlenik: '',
+    pretraga: '',
+    adminstatus: false
+   
+}
